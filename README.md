@@ -1,4 +1,6 @@
-TABLE OF CONTENTS
+
+                                              TABLE OF CONTENTS
+
 1.[LAB 1](https://github.com/Viwvwek/KTU-S3-DS-LAB-FAIR-RECORD/tree/26050d18d14aa4a39a21ea9dc6ac43e2ff737bb2/CYCLE%201/POLYNOMIAL%20ADDITION/ARRAYS)
 2.[LAB 2](https://github.com/Viwvwek/KTU-S3-DS-LAB-FAIR-RECORD/tree/26050d18d14aa4a39a21ea9dc6ac43e2ff737bb2/CYCLE%202)
 3.[LAB 3](https://github.com/Viwvwek/KTU-S3-DS-LAB-FAIR-RECORD/tree/26050d18d14aa4a39a21ea9dc6ac43e2ff737bb2/CYCLE%203/SEARCH%20TECHNIQUES)
