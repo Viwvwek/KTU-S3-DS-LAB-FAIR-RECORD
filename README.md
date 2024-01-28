@@ -25,8 +25,7 @@ This repository contains the fair record for the Data Structures Lab in Semester
 
 ### Contributors
 
-- [Your Name]
-- [Other Contributors]
+- [Viwvwek](https://github.com/Viwvwek)
 
 Feel free to contribute by opening issues or submitting pull requests.
 
