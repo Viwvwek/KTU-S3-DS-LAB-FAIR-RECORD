@@ -19,7 +19,7 @@ This repository contains the fair record for the Data Structures Lab in Semester
 | 11     | Polynomial Operation using Linked List                  | [Lab 11 Repository](https://github.com/Viwvwek/KTU-S3-DS-LAB-FAIR-RECORD/tree/2e67b92bc73f9c8ba33ef554bffbed6cf24b12a9/CYCLE%2011/POLYNOMIAL%20OPERATIONS%20USING%20LINKED%20LIST%20/ADDITION%20%26%26%20MULTIPLICATION) |
 | 12     | Binary Tree                                             | [Lab 12 Repository](https://github.com/Viwvwek/KTU-S3-DS-LAB-FAIR-RECORD/tree/2e67b92bc73f9c8ba33ef554bffbed6cf24b12a9/CYCLE%2012/BINARY%20TREES) |
 | 13     | Sorting Algorithms                                      | [Lab 13 Repository](https://github.com/Viwvwek/KTU-S3-DS-LAB-FAIR-RECORD/tree/2e67b92bc73f9c8ba33ef554bffbed6cf24b12a9/CYCLE%2013/SORTING%20ALGORITHMS) |
-| 14     | BFS & DFS                                               | [Lab 14 Repository](https://github.com/Viwvwek/KTU-S3-DS-LAB-FAIR-RECORD/tree
+| 14     | BFS & DFS                                               | [Lab 14 Repository](https://github.com/Viwvwek/KTU-S3-DS-LAB-FAIR-RECORD/tree/6df1978068385b70890432bafaa1eff67d798374/CYCLE%2014/BFS%20AND%20DFS%20)
 
 
 ## How to Use
